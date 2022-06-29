@@ -1,4 +1,4 @@
-# Google_Data_Analytics_project-Cyclistic-
+# Google_Data_Analytics_project-Cyclistic
 ## Data analysis of "Cyclistic bike-share", Capstone study 
 
 This document is created as a part of the capstone project of the Google Data Analytics Professional Certificate.
@@ -59,3 +59,26 @@ Click [here](https://github.com/YunnaPudnik/Google_Data_Analytics_project-Cyclis
 
 Some data aggregations are performed in R, and further analysis is done in Google Sheets ([link](https://github.com/YunnaPudnik/Google_Data_Analytics_project-Cyclistic-/tree/main/2.%20Analysis)).
 
+# STEP 5: Share
+
+Google Slides is used to perform the presenattion, which contains main data insights, summary and recommendations for further actions([link](https://github.com/YunnaPudnik/Google_Data_Analytics_project-Cyclistic-/tree/main/03.%20Presentation)).
+
+# STEP 6: Act
+
+Through analysis we concluded:
+- Casual riders take less rides, but average ride has longer duration compare to Member riders.
+- Casual riders are more active on Weekends.
+- The longest rides are taken in March, June and July.
+- Casual riders mostly use bikes for entertaining purposes.
+
+**Top 3 recommendations:**
+
+**1.** Set promotion in busiest stations by targeting casual riders.
+
+**Days:** weekends; **Month:** March, June, July; **Stations:** Streeter Dr & Grand Ave, Millennium Park, Michigan Ave & Oak St
+
+**2.** Keep annual membership promotion linked to entertaining activities, weekends content and summer events.
+
+**3.** Design special seasonal packages for Casual riders, which will encourage them to take longer rides and increase revenue.
+
+***Appreciate your time!***
