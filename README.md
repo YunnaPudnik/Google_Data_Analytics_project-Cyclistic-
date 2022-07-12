@@ -53,15 +53,15 @@ During the process step, I clean data, check on errors and format.
 
 **Tool**: As the dataset is big, R programming is a better choice, then Excel or Google Sheet.
 
-Click [here](https://github.com/YunnaPudnik/Google_Data_Analytics_project-Cyclistic-/blob/main/2.%20Analysis/Analysis_script.R) to view R script.
+Click [here](https://github.com/YunnaPudnik/Google_Data_Analytics_project-Cyclistic-/blob/main/02.%20Analysis/Analysis_script.R) to view R script.
 
 # STEP 4: Analyze
 
-Some data aggregations are performed in R, and further analysis is done in Google Sheets ([link](https://github.com/YunnaPudnik/Google_Data_Analytics_project-Cyclistic-/tree/main/2.%20Analysis)).
+Some data aggregations are performed in R, and further analysis is done in Google Sheets ([link](https://github.com/YunnaPudnik/Google_Data_Analytics_project-Cyclistic-/tree/main/02.%20Analysis)).
 
 # STEP 5: Share
 
-Google Slides is used to perform the presenattion, which contains main data insights, summary and recommendations for further actions([link](https://github.com/YunnaPudnik/Google_Data_Analytics_project-Cyclistic-/tree/main/03.%20Presentation)).
+Google Slides is used to perform the presentation, which contains main data insights, summary and recommendations for further actions([link](https://github.com/YunnaPudnik/Google_Data_Analytics_project-Cyclistic-/tree/main/03.%20Presentation)).
 
 # STEP 6: Act
 
