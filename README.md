@@ -65,7 +65,7 @@ Google Slides is used to perform the presentation, which contains main data insi
 
 # STEP 6: Act
 
-Through analysis we concluded:
+**Through analysis we concluded:**
 - Casual riders take less rides, but average ride has longer duration compare to Member riders.
 - Casual riders are more active on Weekends.
 - The longest rides are taken in March, June and July.
